@@ -18,7 +18,6 @@ All cameras compatible with the **RMT-DSLR2** remote:
 | Wiring | VCC → 5V, GND → GND, Signal → **Pin 9** |
 
 <img width="3024" height="2268" alt="Arduino_IR_Intervalometer" src="https://github.com/user-attachments/assets/b919900a-93d3-47a2-a59f-b2f604b6611f" />
-<img width="732" height="870" alt="IR_Transmitter" src="https://github.com/user-attachments/assets/f38314b9-d246-41f9-9753-afb856c9bcf7" />
 
 ## Dependencies
 
